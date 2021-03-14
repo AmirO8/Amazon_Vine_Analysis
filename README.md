@@ -8,11 +8,11 @@ Selecting and Amazon review and analyzing the data using filters, withColumn and
 Below is the total votes greater than 20
 ![Votes greater than 20](https://github.com/AmirO8/Amazon_Vine_Analysis/blob/main/Resources/Votes%20greater%20than%2020.png)
 
-- Vine Reviews:
-- Non Vine Reviews:
-- 5 Star Vine Reviews:
-- 5 Star Non Vine Reviews:
-- % of 5 Star Vine Reviews:
-- % of 5 Star Non Vine Reviews:
+- Vine Reviews: 22
+- Non Vine Reviews: 26,971
+- 5 Star Vine Reviews: 13 
+- 5 Star Non Vine Reviews: 14,475
+- % of 5 Star Vine Reviews: 59.09%
+- % of 5 Star Non Vine Reviews: 53.67%
 
 ## Summary
