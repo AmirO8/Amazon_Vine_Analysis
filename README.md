@@ -13,4 +13,4 @@ Below is the total votes greater than 20
 - 5 Star Vine Reviews:
 - 5 Star Non Vine Reviews:
 - % of 5 Star Vine Reviews:
-- - % of 5 Star Non Vine Reviews:
+- % of 5 Star Non Vine Reviews:
