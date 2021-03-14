@@ -14,5 +14,8 @@ Below is the total votes greater than 20
 - 5 Star Non Vine Reviews: 14,475
 - % of 5 Star Vine Reviews: 59.09%
 - % of 5 Star Non Vine Reviews: 53.67%
+![Vine Count](https://github.com/AmirO8/Amazon_Vine_Analysis/blob/main/Resources/Vine%20Count.png)
+![Non Vine Count](https://github.com/AmirO8/Amazon_Vine_Analysis/blob/main/Resources/Non%20Vine%20Count.png)
+![Percentages](https://github.com/AmirO8/Amazon_Vine_Analysis/blob/main/Resources/Percentages.png)
 
 ## Summary
