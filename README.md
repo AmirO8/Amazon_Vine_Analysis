@@ -19,3 +19,5 @@ Below is the total votes greater than 20
 ![Percentages](https://github.com/AmirO8/Amazon_Vine_Analysis/blob/main/Resources/Percentages.png)
 
 ## Summary
+
+There are only 22 vine reviews for shoes which is small compared to non vine reviews at 26,971. Looking at these numbers you can see the bias towards non vine reviews. We have significantly more non vine reviews which. The 22 vine reviews are a small sample size which may not be sufficient if we were to run a test
